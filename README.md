@@ -9,13 +9,16 @@ Compare the numbers between each group and subgroup.
 
 Final Analysis:
 
-Increase in white suicides
+No matter race, male suicides > female suicides
 
-Male suicides higher than women
+Suicide rates are increasing
 
-Small dip in 2000s
+Suicide methods = suicide success?
 
-How much more often men kill themselves
+Splitting Data into their own or a new data frame
 
-Would like to compare to visual of total suicides over time
+Simple lines of code can be hard to debug
+
+
+
 
